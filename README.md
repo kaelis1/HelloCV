@@ -1,3 +1,5 @@
+学长学姐，这个预览和实际内容会有出入，还是点进去看好点
+
 完成的crypto项目存放在CrypyoTool文件夹中。第二层是CMakeLists.txt文件和crc（放置源代码）和build的环境编译文件，buid中还有提前创建的被加密文件input.txt和加密后储存文件encrypted.txt
 第一步：创建项目目录
 //创建总目录
