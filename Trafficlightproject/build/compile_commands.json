@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wang/Trafficlightproject/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++14 -o CMakeFiles/1.dir/main.cpp.o -c /home/wang/Trafficlightproject/main.cpp",
+  "file": "/home/wang/Trafficlightproject/main.cpp"
+}
+]

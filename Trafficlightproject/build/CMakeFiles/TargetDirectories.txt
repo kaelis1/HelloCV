@@ -1,0 +1,3 @@
+/home/wang/Trafficlightproject/build/CMakeFiles/1.dir
+/home/wang/Trafficlightproject/build/CMakeFiles/edit_cache.dir
+/home/wang/Trafficlightproject/build/CMakeFiles/rebuild_cache.dir
